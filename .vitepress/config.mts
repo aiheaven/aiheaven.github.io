@@ -25,6 +25,7 @@ export default defineConfig({
       {text: '🚀 Startups', link: '/Startups.md'},
       {text: '🛠️ Platforms', link: '/Platforms.md'},
       {text: '🔍 Productivity', link: '/Productivity.md'},
+      {text: '🎨 Design', link: '/Design.md'},
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/aiheaven' }
